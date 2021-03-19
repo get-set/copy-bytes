@@ -1,0 +1,11 @@
+[package]
+name = "bytes"
+version = "0.0.1"
+authors = ["Liu Kang <liukang.hi@gmail.com>"]
+description = "Types and traits for working with bytes"
+edition = "2018"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
